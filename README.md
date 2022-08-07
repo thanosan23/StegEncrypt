@@ -10,7 +10,7 @@ Encoding images:
 `python lsb.py encode <original-image-name> <result-image>`
 
 Decoding Images:
-`python lsb.py decode <image-with-embedded-message`
+`python lsb.py decode <image-with-embedded-message>`
 
 ## Overview of LSB Steganography
 Implementation: `lsb.py`
